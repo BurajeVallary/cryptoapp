@@ -382,6 +382,41 @@ nav .btn{
 display: grid;
 grid-template-columns: repeat(3,1fr);
 }
+i .bx .bx-hide{
+width: 100px;
+}
+
+.clarity{
+    display: grid;
+grid-template-columns: repeat(2,1fr);
+}
+.po{
+color: black;
+margin-left: 600px;
+margin-top: -150px;
+}
+.exi{
+   
+        padding: 12px;
+        color: greenyellow;
+        border-color: wheat;
+        border-radius: 10px;
+        background-color: black;
+     
+}
+.exy{
+   
+   
+        padding: 12px;
+        color: greenyellow;
+        border-color: wheat;
+        border-radius: 10px;
+        background-color: black;
+        margin-left: 10px;
+     
+}
+
+
 
 
 
