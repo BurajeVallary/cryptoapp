@@ -437,10 +437,15 @@ margin-top: -150px;
     background: radial-gradient( #000124, #1A1A1A);
     border-radius: 11px;
     box-shadow: 0 10px 30px rgb(0, 0, 0,0.5);
-    margin-bottom: 20%;
+    /* margin-bottom: 20%; */
 padding: 16px 24px;
     text-align: left;
     color: #D6D6D6;
     font-weight: 600;
+}
+
+.foot{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
 }
 
