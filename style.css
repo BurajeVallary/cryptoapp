@@ -306,18 +306,18 @@ nav .btn{
     display: flex;
 }
 
-.for{
+ .for{
     color: #D6D6D6;
-    height: 290px;
-    width: 280px;
-    background-color:black;
+    /* height: 290px;
+    width: 280px; */
+    /* background-color:black; */
     margin-left:50px ;
-    border-radius: 11px;
+    /* border-radius: 11px; */
     font-size: 1rem;
     padding: 2%; 
     margin-top: -420px;
 
-}
+} 
 
 .use{
    font-size: 40px;
